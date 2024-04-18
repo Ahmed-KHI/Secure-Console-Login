@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "name": "secure-console-login",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript","Inquirer","Authentication","Command-line interface (CLI)","User input","Login system","Conditional statements","Prompt","Password masking","Validation"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC",
+  "description": "This TypeScript code implements a simple login system using the Inquirer package for command-line user input. The program begins by defining two variables: email and password, which represent the expected email and password for authentication."
+}
